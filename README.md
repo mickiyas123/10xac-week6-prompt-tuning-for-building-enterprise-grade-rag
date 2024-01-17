@@ -14,4 +14,4 @@ PromptlyTech is an innovative e-business specializing in providing AI-driven sol
   
 ## Part of the Project
 * Back-End:[Back-End-Folder](https://github.com/mickiyas123/10xac-week6-prompt-tuning-for-building-enterprise-grade-rag/blob/feature/task_two_prompt_generation_system/back-end)
-
+* Front-End:[Front-End-Folder](https://github.com/mickiyas123/10xac-week6-prompt-tuning-for-building-enterprise-grade-rag/tree/feature/task_two_prompt_generation_system/front-end)
