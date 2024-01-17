@@ -153,3 +153,6 @@ websocket-client==0.58.0
 wheel==0.41.2
 widgetsnbextension==4.0.5
 yarl==1.9.3
+fastapi
+uvicorn
+load_dotenv
